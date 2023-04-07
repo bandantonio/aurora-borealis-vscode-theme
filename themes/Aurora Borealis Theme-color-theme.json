@@ -134,7 +134,7 @@
 		"diffEditor.insertedTextBackground": "#00baff1f",
 		"diffEditor.removedTextBackground": "#ff10101f",
 		"diffEditor.border": "#444444",
-		"panel.background": "#282d3b",
+		"panel.background": "#1a1e27",
 		"panel.border": "#dddddd15",
 		"panelTitle.activeBorder": "#718c37",
 		"panelTitle.activeForeground": "#718c37",
@@ -144,7 +144,7 @@
 		"terminal.foreground": "#ddeedd",
 		"terminal.selectionBackground": "#b2dc5675",
 		"terminalCursor.background": "#718c37",
-		"terminalCursor.foreground": "#303030",
+		"terminalCursor.foreground": "#dedede",
 		"terminal.border": "#718c3775",
 		"terminal.ansiBlack": "#000000",
 		"terminal.ansiBlue": "#2472c8",
@@ -979,7 +979,7 @@
 			"name": "Meta tag",
 			"scope": "meta.tag",
 			"settings": {
-				"foreground": "#dedede"
+				"foreground": "#fcb13f"
 			}
 		},
 		{

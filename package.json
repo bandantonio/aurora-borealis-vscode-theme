@@ -1,0 +1,43 @@
+{
+  "name": "aurora-borealis-theme",
+  "displayName": "Aurora Borealis Theme",
+  "version": "0.1.0",
+  "preview": true,
+  "publisher": "mister-gold",
+  "icon": "icon.jpg",
+  "description": "Dark color theme for VS Code",
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#212530",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bandantonio/aurora-borealis-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/bandantonio/aurora-borealis-vscode-theme/issues"
+  },
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aurora Borealis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aurora Borealis Theme-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "aurora",
+    "borealis",
+    "dark",
+    "theme",
+    "vscode"
+  ]
+}

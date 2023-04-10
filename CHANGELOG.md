@@ -2,6 +2,11 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 0.1.2
+
+- Fixed:
+    - Marketplace: Change banner color. Remove irrelevant tags
+
 ## 0.1.1
 
 - Fixed:

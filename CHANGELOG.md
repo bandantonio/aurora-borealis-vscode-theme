@@ -2,6 +2,11 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 0.2.0
+
+- Added:
+    - README: Add badge links to live demo, marketplace and github
+
 ## 0.1.2
 
 - Fixed:

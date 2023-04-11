@@ -1160,6 +1160,13 @@
 			}
 		},
 		{
+			"name": "Markdown Raw Block",
+			"scope": "markup.raw.block.markdown",
+			"settings": {
+				"foreground": "#b2dc56"
+			}
+		},
+		{
 			"name": "[VSCODE-CUSTOM] Markdown List Punctuation Definition",
 			"scope": "punctuation.definition.list.markdown",
 			"settings": {
@@ -1190,19 +1197,33 @@
 			"name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Link",
 			"scope": "punctuation.definition.metadata.markdown",
 			"settings": {
-				"foreground": "#ff6942"
+				"foreground": "#dddd03"
 			}
 		},
 		{
 			"name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
 			"scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
 			"settings": {
-				"foreground": "#fcb13f"
+				"foreground": "#ff6942"
 			}
 		},
 		{
 			"name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
 			"scope": "string.other.link.title.markdown,string.other.link.description.markdown",
+			"settings": {
+				"foreground": "#fcb13f"
+			}
+		},
+		{
+			"name": "Markdown Link/Image Link",
+			"scope": "meta.image.inline.markdown, meta.link.inline.markdown",
+			"settings": {
+				"foreground": "#dddd03"
+			}
+		},
+		{
+			"name": "Markdown Fenced Code Block",
+			"scope": "markup.fenced_code.block.markdown",
 			"settings": {
 				"foreground": "#dddd03"
 			}
@@ -2047,7 +2068,7 @@
 			"name": "[VSCODE-CUSTOM] Markdown Quote",
 			"scope": "markup.quote.markdown",
 			"settings": {
-				"foreground": "#626466"
+				"foreground": "#65696c"
 			}
 		},
 		{

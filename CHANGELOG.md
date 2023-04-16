@@ -2,6 +2,10 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 0.5.0
+
+- Improved semantic highlighting for tsx, html, and css
+
 ## 0.4.0
 
 - Made semantic highlighting for CSS property names dimmed

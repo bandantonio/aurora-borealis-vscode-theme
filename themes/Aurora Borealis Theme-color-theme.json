@@ -576,6 +576,24 @@
 			}
 		},
 		{
+			"name": "css property list",
+			"scope": "meta.property-list.css",
+			"settings": {
+				"foreground": "#FCB13F"
+			}
+		},
+		{
+			"name": "css/tsx round brackets",
+			"scope": [
+				"punctuation.section.function.begin.bracket.round.css",
+				"punctuation.section.function.end.bracket.round.css",
+				"meta.brace.round.tsx",
+			],
+			"settings": {
+				"foreground": "#da70d6"
+			}
+		},
+		{
 			"name": "js/ts module",
 			"scope": "support.module.node,support.type.object.module,support.module.node",
 			"settings": {
@@ -1696,6 +1714,28 @@
 			],
 			"settings": {
 				"foreground": "#fcb13f"
+			}
+		},
+		{
+			"name": "ts/html definition block",
+			"scope": [
+				"punctuation.definition.block.ts",
+				"punctuation.definition.generic.begin.html",
+				"punctuation.definition.generic.end.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html"
+			],
+			"settings": {
+				"foreground": "#fcb13f"
+			}
+		},
+		{
+			"name": "ts object binding pattern variable",
+			"scope": [
+				"meta.object-binding-pattern-variable.ts"
+			],
+			"settings": {
+				"foreground": "#FCB13F"
 			}
 		},
 		{

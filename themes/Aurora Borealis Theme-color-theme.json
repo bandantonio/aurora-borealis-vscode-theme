@@ -569,6 +569,13 @@
 			}
 		},
 		{
+			"name": "css property name",
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#dddddd"
+			}
+		},
+		{
 			"name": "js/ts module",
 			"scope": "support.module.node,support.type.object.module,support.module.node",
 			"settings": {

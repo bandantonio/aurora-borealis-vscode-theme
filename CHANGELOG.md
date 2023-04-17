@@ -2,6 +2,10 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 0.6.0
+
+- Add support for VS Code starting from v1.56.0
+
 ## 0.5.0
 
 - Improved semantic highlighting for tsx, html, and css

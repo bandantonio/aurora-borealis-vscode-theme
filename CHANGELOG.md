@@ -2,9 +2,14 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 0.7.0
+
+- Added: README: Add `installs` and `downloads` badges
+- Updated showcase screenshot
+
 ## 0.6.0
 
-- Add support for VS Code starting from v1.56.0
+- Added support for VS Code starting from v1.56.0
 
 ## 0.5.0
 

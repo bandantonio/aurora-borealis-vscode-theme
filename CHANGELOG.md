@@ -2,6 +2,11 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 0.7.1
+
+- Fixed:
+    - Removed cached files from the repository
+
 ## 0.7.0
 
 - Added: README: Add `installs` and `downloads` badges

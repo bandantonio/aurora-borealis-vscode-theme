@@ -2,6 +2,10 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 1.0.1
+
+- Fixed extension icon to have rounded corners
+
 ## 1.0.0
 
 - Added new dark color scheme: **Aurora Borealis**

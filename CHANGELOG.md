@@ -2,6 +2,12 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 1.0.0
+
+- Added new dark color scheme: **Aurora Borealis**
+- Udated naming of the existing color scheme to **Aurora Borealis Calm**
+- Reduced the size of the resulting extension package by 97%
+
 ## 0.7.1
 
 - Fixed:

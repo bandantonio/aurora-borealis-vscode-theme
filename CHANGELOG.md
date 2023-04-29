@@ -2,6 +2,10 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 1.1.0
+
+- Main theme: updated editor background colors when dragging opened tabs
+
 ## 1.0.2
 
 - Updated live preview badges for each of the theme variants

@@ -2,6 +2,10 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 1.0.2
+
+- Updated live preview badges for each of the theme variants
+
 ## 1.0.1
 
 - Fixed extension icon to have rounded corners

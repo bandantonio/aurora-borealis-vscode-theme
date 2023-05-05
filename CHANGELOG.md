@@ -2,6 +2,11 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 1.1.1
+
+- Fixed:
+    - Active scrollbar slider color
+
 ## 1.1.0
 
 - Main theme: updated editor background colors when dragging opened tabs

@@ -178,7 +178,7 @@
 		"tab.inactiveForeground": "#dddddd75",
 		"scrollbarSlider.background": "#5A1BC275",
 		"scrollbarSlider.hoverBackground": "#5A1BC2",
-		"scrollbarSlider.activeBackground": "#dddddd75",
+		"scrollbarSlider.activeBackground": "#B03DB2",
 		"progressBar.background": "#fcb13f",
 		"widget.shadow": "#0000005c",
 		"editorWidget.foreground": "#cccccc",

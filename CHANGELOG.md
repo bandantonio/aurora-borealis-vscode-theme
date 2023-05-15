@@ -2,6 +2,10 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 1.2.0
+
+- Updated sticky scroll colors for Main and Calm themes
+
 ## 1.1.1
 
 - Fixed:

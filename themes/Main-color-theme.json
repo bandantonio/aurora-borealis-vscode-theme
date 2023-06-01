@@ -110,6 +110,8 @@
 		"editorLink.activeForeground": "#b2dc56",
 		"editorIndentGuide.background": "#5A1BC280",
 		"editorIndentGuide.activeBackground": "#dedede95",
+		"editorUnnecessaryCode.border": "#f14c4c",
+		"editorUnnecessaryCode.opacity": "#00000070",
 		"editorRuler.foreground": "#5a5a5a",
 		"editorBracketMatch.background": "#3794ff40",
 		"editorBracketMatch.border": "#3794ff",

@@ -2,6 +2,10 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 1.4.0
+
+- Updated Asciidoctor syntax colors for Main and Calm themes
+
 ## 1.3.0
 
 - Updated colors for unused code for Main and Calm themes

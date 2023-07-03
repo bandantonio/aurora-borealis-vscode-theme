@@ -2165,6 +2165,72 @@
 			"settings": {
 				"fontStyle": "italic"
 			}
+		},
+		{
+			"name": "Asciidoctor link xref color",
+			"scope": [
+				"markup.reference.xref.asciidoc",
+				"markup.link.asciidoc"
+			],
+			"settings": {
+				"foreground": "#b2dc56"
+			}
+		},
+		{
+			"name": "Asciidoctor link url color",
+			"scope": "string.unquoted.asciidoc",
+			"settings": {
+				"foreground": "#ff6942"
+			}
+		},
+		{
+			"name": "Asciidoctor bullet list color",
+			"scope": "markup.list.asciidoc",
+			"settings": {
+				"foreground": "#ff6942"
+			}
+		},
+		{
+			"name": "Asciidoctor admonition text color",
+			"scope": "markup.admonition.asciidoc",
+			"settings": {
+				"foreground": "#dddd0395"
+			}
+		},
+		{
+			"name": "Asciidoctor inline code block color",
+			"scope": "markup.monospace.constrained.asciidoc",
+			"settings": {
+				"foreground": "#b2dc56"
+			}
+		},
+		{
+			"name": "Asciidoctor raw code block color",
+			"scope": [
+				"markup.raw.asciidoc",
+				"markup.block.literal.asciidoc",
+				"markup.block.example.asciidoc"
+			],
+			"settings": {
+				"foreground": "#b2dc56"
+			}
+		},
+		{
+			"name": "Asciidoctor table delimiter",
+			"scope": [
+				"markup.table.cell.delimiter.asciidoc",
+				"markup.table.delimiter.asciidoc",
+			],
+			"settings": {
+				"foreground": "#ff6942"
+			}
+		},
+		{
+			"name": "Asciidoctor attribute entry",
+			"scope": "meta.definition.attribute-entry.asciidoc",
+			"settings": {
+				"foreground": "#fcb13f"
+			}
 		}
 	],
 }

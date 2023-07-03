@@ -1,7 +1,7 @@
 {
   "name": "aurora-borealis-theme",
   "displayName": "Aurora Borealis Theme",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "publisher": "mister-gold",
   "icon": "icon.png",
   "description": "Elegant dark theme for VS Code",

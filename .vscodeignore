@@ -1,5 +1,6 @@
 .vscode
 .gitignore
+node_modules
 header.jpg
 showcase-*.png
 *.vsix

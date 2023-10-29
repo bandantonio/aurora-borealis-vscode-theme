@@ -2,6 +2,12 @@
 
 All notable changes to the `aurora-borealis-theme` extension will be documented in this file.
 
+## 1.5.0
+
+- Updated active tab background color for the Main theme
+- Updated deprecated parameters for indent guides for Main and Calm themes
+- Removed node_modules from the resulting extension package
+
 ## 1.4.0
 
 - Updated Asciidoctor syntax colors for Main and Calm themes
